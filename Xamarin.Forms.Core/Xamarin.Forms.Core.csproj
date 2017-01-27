@@ -22,6 +22,7 @@
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <DocumentationFile>..\docs\Xamarin.Forms.Core.xml</DocumentationFile>
     <NoWarn>
     </NoWarn>
   </PropertyGroup>
